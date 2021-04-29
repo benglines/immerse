@@ -3,13 +3,20 @@ layout: default
 title: TO-DO
 ---
 
-* **Stuff To-Do**
-  * Refresh Bit-Inspector presentation
+* **General To-Do**
+  * Finish up Bit-Inspector tool
+  * Review certain BootCamp topics
+  * Clean up Bit Inspector code
+  * Learn Python extensively
+
+* **SpyDrNet To-Do**
   * Do examples for SpyDrNet
     * Learn pytest
-    * Get edif file from Vivado
-  * Review certain BootCamp topics
-  * 
+
+* **Computing Boot Camp To-Do**
+  * New Boot Camp module list
+  * Improve Project X-Ray and BIT2FASM modules?
+
 <!-- 
 Log Template
 
