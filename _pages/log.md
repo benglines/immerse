@@ -41,7 +41,8 @@ title: IMMERSE Log
   * Read and understood "/examples/basic/plot_stat.py" to better understand netlist hierarchy and how to print it. I am keeping a running list of questions about SpyDrNet that I can ask Dallin and Jordi
   * Started working to understand "/examples/basic/plot_single_use_definitions.py" I think I understand the idea behind it, but I haven't been able to see what the script outputs.
 * **Friday**: 
-
+  * Spoke with Dallin and he answered all of my questions. I feel pretty confident with the basic workings of SpyDrNet, but I haven't dived deep into all of the different functions and examples.
+  * Started reading through the SpyDrNet-SRHEC documentation. I am keeping my own list of notes to try and understand the documentation, as well as ideas for better documentation.
 <!-- 
 Log Template
 
