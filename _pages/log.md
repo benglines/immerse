@@ -38,7 +38,8 @@ title: IMMERSE Log
   * Changed presentation from last year to reflect progress with the Bit Inspector tool. Since the Bit Inspector tool hadn't been finished yet when I gave the presentation, I basically changed most of the presentation to talk about that instead of the modified bit2fasm tool I was working on. The presentation is mostly ready, but still needs some work.
 * **Thursday**: 
   * Started working Python tutorials from here: https://docs.python.org/3/tutorial/. Did Section 1-4.6, and feel more confident now. I plan on working through the rest of the tutorials later
-  
+  * Read and understood "/examples/basic/plot_stat.py" to better understand netlist hierarchy and how to print it. I am keeping a running list of questions about SpyDrNet that I can ask Dallin and Jordi
+  * Started working to understand "/examples/basic/plot_single_use_definitions.py" I think I understand the idea behind it, but I haven't been able to see what the script outputs.
 * **Friday**: 
 
 <!-- 
