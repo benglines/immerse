@@ -16,7 +16,21 @@ title: IMMERSE Log
 
 ## Log
 
-### Week 1: APRIL 26, 2021
+### Week 2: 2 MAY 2021
+
+* **Monday**:
+  * Went to tools meeting. I need to do more tutorials on SpyDrNet. I haven't done anything with netlist manipulation yet, only parsing and composing. I'll continue to try and get TMR to work with some of my own designs and then upload them to my baord.
+  * Used TMR to triplicate some simple designs. Tried different settings i.e. triplicating/not triplicating top-level ports, adding voters. Spent time trying to understand the tool and how it works.
+  * Started to get my RISCV processor netlist ready for TMR, but had some trouble with synthesis on lab machine. Maybe my Vivado is too old of a version? Either way, I was able to get the netlist from a different machine. TMR did not work on my RISCV processor though, I got a warning saying "feedback cannot be broken," and the error ultimately occurs saying: "AttributeError: 'NoneType' object has no attribute 'add_cable'"
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+
+### Week 1: 26 APRIL 2021
 
 * **Monday**:
   * Set up office space.
@@ -43,10 +57,13 @@ title: IMMERSE Log
 * **Friday**: 
   * Spoke with Dallin and he answered all of my questions. I feel pretty confident with the basic workings of SpyDrNet, but I haven't dived deep into all of the different functions and examples.
   * Started reading through the SpyDrNet-SRHEC documentation. I am keeping my own list of notes to try and understand the documentation, as well as ideas for better documentation.
+  
+
+  
 <!-- 
 Log Template
 
-### Week N: , 2021
+### Week N: 2021
 
 * **Monday**:
   * 

@@ -10,13 +10,13 @@ title: TO-DO
   * Learn Python extensively
 
 * **SpyDrNet-SHREC To-Do**
-  * Read through documentation
-    * Understand "Circuit Replication"
   * Triplicate(?) my RISCV processor
     * Get my RISCV processor running again with current system setup.
       * Ask about unused reg warning. Might be worth fixing or understanding before trying to triplicate my design
 
 * **SpyDrNet To-Do**
+  * Read papers that Jordi sent in Slack
+  * Understand flattening and uniquifying and single_use_definition
   * Do examples for SpyDrNet
     * Learn pytest
   * Get output from plot_single_use_definition.py
