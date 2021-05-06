@@ -4,7 +4,6 @@ title: TO-DO
 ---
 
 * **General To-Do**
-  * Finish up Bit-Inspector tool presentation
   * Review certain BootCamp topics
   * Clean up Bit Inspector code
   * Learn Python extensively
@@ -22,6 +21,7 @@ title: TO-DO
   * Get output from plot_single_use_definition.py
     * Use more complicated edif files. 
   * Finish the rest of the examples? Or move on?
+  * Adapt minimal to create a netlist suitable for BASYS3 board
 
 * **Computing Boot Camp To-Do**
   * New Boot Camp module list

@@ -23,9 +23,15 @@ title: IMMERSE Log
   * Used TMR to triplicate some simple designs. Tried different settings i.e. triplicating/not triplicating top-level ports, adding voters. Spent time trying to understand the tool and how it works.
   * Started to get my RISCV processor netlist ready for TMR, but had some trouble with synthesis on lab machine. Maybe my Vivado is too old of a version? Either way, I was able to get the netlist from a different machine. TMR did not work on my RISCV processor though, I got a warning saying "feedback cannot be broken," and the error ultimately occurs saying: "AttributeError: 'NoneType' object has no attribute 'add_cable'"
 * **Tuesday**: 
-  * 
+  * Finished Bit-Inspector presentation for tomorrow. Added graphics for easier understanding.
+  * Started reading though "Synchronization Voter Insertion Algorithms for FPGA Designs Using Triple Modular Redundancy" paper. I've learned a lot about TMR and understand more about voters and their implementation.
+  * Tried getting Remote Desktop Protocol working in case I ever need to use it for working remotely. Couldn't quite figure it out unfortunately, but I can still SSH into the machine. I wanted to get RDP working for using Vivado or other GUI based things.
 * **Wednesday**: 
-  * 
+  * Refined and practiced Bit-Inspector presentation and made sure I could use the projector for the presentation.
+  * Went to IMMERSE meeting on ethics. Interesting conversation on duty vs charity driven service
+  * Went to track meeting and presented on the Bit-Inspector
+  * Discussed plans for Computing Boot Camp and individual responsibilites in meeting.
+  * Started creating a netlist from scratch with SpyDrNet that I can generate a bitstream from
 * **Thursday**: 
   * 
 * **Friday**:
