@@ -33,8 +33,9 @@ title: IMMERSE Log
   * Discussed plans for Computing Boot Camp and individual responsibilites in meeting.
   * Started creating a netlist from scratch with SpyDrNet that I can generate a bitstream from
 * **Thursday**: 
-  * 
+  * Worked on creating a new SpyDrNet example in which a netlist is created that can be downloaded onto a Nexys4 board. It is similar to the existing 'minimal.py' example, but instead implements a LUT using primitives compatible with the FPGA. So far it has helped me a lot to get hands on experience with the tool. I've been working with a netlist generated from Vivado, and working from there. The plan is to get a netlist that I could put into a Post-Synthesis project and generate a bitstream from it.
 * **Friday**:
+  * Continued working on SpyDrNet netlist from scratch example. I've made some changes to make it parameterizable, perhaps adding the ability to use different sizes of LUTs.
 
 ### Week 1: 26 APRIL 2021
 

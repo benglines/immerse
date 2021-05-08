@@ -22,10 +22,12 @@ title: TO-DO
     * Use more complicated edif files. 
   * Finish the rest of the examples? Or move on?
   * Adapt minimal to create a netlist suitable for BASYS3 board
+  * Create customizable LUT generator
 
 * **Computing Boot Camp To-Do**
   * New Boot Camp module list
   * Improve Project X-Ray and BIT2FASM modules?
+  * Create style guide for boot camp
 
 <!-- 
 Log Template
