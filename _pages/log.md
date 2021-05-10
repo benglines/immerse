@@ -6,17 +6,33 @@ title: IMMERSE Log
 ## Schedule
 
 * **Monday**:
-  * 7:00am-12:00pm, 1:00pm-6:00pm
+  * 8:00am-12:00pm, 1:00pm-4:00pm
 * **Tuesday**: 
-  * 7:00am-12:00pm, 1:00pm-6:00pm
+  * 8:00am-12:00pm, 1:00pm-4:00pm
 * **Wednesday**: 
-  * 7:00am-12:00pm, 1:00pm-6:00pm
+  * 8:00am-12:00pm, 1:00pm-4:00pm
 * **Thursday**: 
-  * 7:00am-12:00pm, 1:00pm-6:00pm
+  * 8:00am-12:00pm, 1:00pm-4:00pm
+* **Friday**: 
+  * 8:00am-12:00pm
 
 ## Log
 
-### Week 2: 2 MAY 2021
+### Week 3: 10 MAY 2021
+
+* **Monday**:
+  * Finished LUT_builder python script and tested it with my BASYS3 board. It seems to work just fine, only requiring a constraints file to be created. Added comments and changed code for better readability. 
+  * Attended hirel-tools meeting. 
+  * Attended bootcamp meeting for Python.
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+
+### Week 2: 3 MAY 2021
 
 * **Monday**:
   * Went to tools meeting. I need to do more tutorials on SpyDrNet. I haven't done anything with netlist manipulation yet, only parsing and composing. I'll continue to try and get TMR to work with some of my own designs and then upload them to my baord.

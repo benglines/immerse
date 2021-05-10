@@ -2,11 +2,16 @@
 layout: default
 title: TO-DO
 ---
+* **Priority To-Do**
+  * Bootcamp style guide
+  * Learn TMR release flow
+  * Create SpyDrNet branch for Vivado examples
+  * Create simple TMR examples: adder, counter, and gates, etc.
+    * Maybe one example with triple ports, but mostly stick to one set of ports
 
 * **General To-Do**
   * Review certain BootCamp topics
   * Clean up Bit Inspector code
-  * Learn Python extensively
 
 * **SpyDrNet-SHREC To-Do**
   * Triplicate(?) my RISCV processor
@@ -23,11 +28,20 @@ title: TO-DO
   * Finish the rest of the examples? Or move on?
   * Adapt minimal to create a netlist suitable for BASYS3 board
   * Create customizable LUT generator
+    * Figure out exceptions in Python to ensure correct configuration for different sizes of LUTs
+    * Create LUT configuration brief tutorial
+    * Test minimum requirements to generate bitstream
+    * Finalize comments
 
 * **Computing Boot Camp To-Do**
   * New Boot Camp module list
   * Improve Project X-Ray and BIT2FASM modules?
   * Create style guide for boot camp
+
+* **Things to learn**
+  * Code coverage
+  * All Python tutorials
+
 
 <!-- 
 Log Template
