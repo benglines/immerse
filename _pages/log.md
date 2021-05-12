@@ -25,7 +25,7 @@ title: IMMERSE Log
   * Attended hirel-tools meeting. 
   * Attended bootcamp meeting for Python.
 * **Tuesday**: 
-  * 
+  * Created Bootcamp "How to Contribute" page.
 * **Wednesday**: 
   * 
 * **Thursday**: 
