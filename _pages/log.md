@@ -27,10 +27,14 @@ title: IMMERSE Log
 * **Tuesday**: 
   * Created Bootcamp "How to Contribute" page.
 * **Wednesday**: 
-  * 
+  * Created some simple SystemVerilog files for the SpyDrNet Vivado example
 * **Thursday**: 
-  * 
+  * Learned a little bit on how to use Sphinx so I can rebuild the SpyDrNet docs and insert the Vivado examples. I came up with three different examples that would be helpful: Getting EDIF from a design in Vivado and parsing it into SpyDrNet, creating EDIF from scratch with SpyDrNet and downloading it to an FPGA board, and modify a pre-existing netlist by parsing it with SpyDrNet and then composing the file after modifications have been made.
+  * Started adding some .rst documentation for the EDIF from scratch example.
 * **Friday**:
+  * Jacob and I collaberated on what we had both learned from SpyDrNet and tried to figure out more about what we should change for the documentation.
+  * We also went over all the TMR documentation and created issues in GitHub for everything we could add/change to the documentation.
+  * Had a meeting with SpyDrNet team to discuss the upcoming 1.8.1 release, as well as what we plan on doing for the 1.9.0 release in the future (some reorganization of the docs, and some new shortcuts and features)
 
 ### Week 2: 3 MAY 2021
 

@@ -14,6 +14,7 @@ title: TO-DO
   * Clean up Bit Inspector code
 
 * **SpyDrNet-SHREC To-Do**
+  * Make new logo maybe. Change SpyDrNet-SHREC color
   * Triplicate(?) my RISCV processor
     * Get my RISCV processor running again with current system setup.
       * Ask about unused reg warning. Might be worth fixing or understanding before trying to triplicate my design
