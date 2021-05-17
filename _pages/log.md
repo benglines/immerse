@@ -18,6 +18,28 @@ title: IMMERSE Log
 
 ## Log
 
+### Week 4: 17 MAY 2021
+
+#### Goals
+
+* Finish SpyDrNet Vivado examples
+* Finish reading "Synchronization Voter Insertion Algorithms for FPGA Designs Using Triple Modular Redundancy" paper
+* Create "Install" page and main page for SpyDrNet-SHREC
+* Create three simple TMR examples
+* Put "How To Contribute" page on Computing Bootcamp website, and start fixing other units to fit the format
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+
 ### Week 3: 10 MAY 2021
 
 * **Monday**:
