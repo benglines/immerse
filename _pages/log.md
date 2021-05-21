@@ -31,13 +31,19 @@ title: IMMERSE Log
 #### Daily Updates
 
 * **Monday**:
-  * 
+  * Created another Vivado example in which it is explained how to create/view a netlist inside Vivado. 
+  * Attended SpyDrNet meeting. I'll continue working on the Vivado examples for SpyDrNet, and work on creating some simple examples for SpyDrNet SHREC.
 * **Tuesday**: 
-  * 
+  * Finished all 3 Vivado examples and created a branch for them.
 * **Wednesday**: 
-  * 
+  * Created IMMERSE Summer 2021 proposal. 
+  * Attended DEEP DIVE presentation on diversity.
+  * Attended Computing Boot Camp meeting
+  * Continued reading TMR paper
 * **Thursday**: 
-  * 
+  * Worked on creating new SpyDrNet SHREC examples. Got lost in the SHREC API, but hopefully meeting with Andrew will help with that. 
+  * Worked on main page for SpyDrNet SHREC. We don't know a lot about the functionality of the tool, so we need
+  * Created pull request for "How to Contribue" page for Computing Boot Camp
 * **Friday**:
 
 ### Week 3: 10 MAY 2021

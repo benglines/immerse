@@ -5,7 +5,6 @@ title: TO-DO
 * **Priority To-Do**
   * Bootcamp style guide
   * Learn TMR release flow
-  * Create SpyDrNet branch for Vivado examples
   * Create simple TMR examples: adder, counter, and gates, etc.
     * Maybe one example with triple ports, but mostly stick to one set of ports
 
@@ -42,6 +41,8 @@ title: TO-DO
 * **Things to learn**
   * Code coverage
   * All Python tutorials
+    * Generators
+    * List comprehension
 
 
 <!-- 
