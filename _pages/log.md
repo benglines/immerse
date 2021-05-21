@@ -18,6 +18,27 @@ title: IMMERSE Log
 
 ## Log
 
+### Week 5: 24 MAY 2021
+
+#### Goals
+
+* Create sime TMR examples that can be downloaded to board
+* Continue reading "Synchronization Voter Insertion Algorithms for FPGA Designs Using Triple Modular Redundancy" paper to understand best algorithm that is also used in SpyDrNet SHREC
+* Continue working on main page for SpyDrNet-SHREC
+* Start working on basic tutorial for SpyDrNet-SHREC
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+
 ### Week 4: 17 MAY 2021
 
 #### Goals
@@ -45,6 +66,9 @@ title: IMMERSE Log
   * Worked on main page for SpyDrNet SHREC. We don't know a lot about the functionality of the tool, so we need
   * Created pull request for "How to Contribue" page for Computing Boot Camp
 * **Friday**:
+  * Looked at plot_generic_tmr.py script from SpyDrNet SHREC in more depth to see what was going on, and came up with a list of questions for Andrew.
+  * Met with Andrew and had a great discussion on SpyDrNet SHREC to learn more about it and its purpose. We have more things to add to the documentation now, and we also understand a lot more about it now.
+  * Prepared for SpyDrNet 1.8.1 release by going over the release notes on the wiki
 
 ### Week 3: 10 MAY 2021
 
@@ -119,6 +143,10 @@ title: IMMERSE Log
 Log Template
 
 ### Week N: 2021
+
+#### Goals
+
+#### Daily Updates
 
 * **Monday**:
   * 
