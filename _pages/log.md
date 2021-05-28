@@ -22,7 +22,13 @@ title: IMMERSE Log
 
 #### Goals
 
-* Create sime TMR examples that can be downloaded to board
+* Create list of enhancements/features for new SpyDrNet SHREC release
+  * Documentation
+  * Examples
+  * New features?
+  * Bugs?
+* Review SpyDrNet SHREC testing infrastructure
+* Create some TMR examples that can be downloaded to board
 * Continue reading "Synchronization Voter Insertion Algorithms for FPGA Designs Using Triple Modular Redundancy" paper to understand best algorithm that is also used in SpyDrNet SHREC
 * Continue working on main page for SpyDrNet-SHREC
 * Start working on basic tutorial for SpyDrNet-SHREC
@@ -30,14 +36,21 @@ title: IMMERSE Log
 #### Daily Updates
 
 * **Monday**:
-  * 
+  * Explored creating netlists that can be downloaded to a board.
 * **Tuesday**: 
-  * 
+  * Created a simple two-bit counter with one-shot detection, and successfully applied TMR to the netlist, and downloaded it to a board. I only triplicated the LED port, and manually changed the constraints so the all three copies of the counter output (2 x 3 = 6 LEDs for the output), so that all three of the replicates can be viewed. 
 * **Wednesday**: 
-  * 
+  * Attended Deep dive meeting.
+  * Attended short bootcamp meeting.
+  * Finished creating two-bit counter with documentation.
+  * Added to two-bit counter example to allow for generating a bitstream from the python script. This took some time to figure out how to generate a bitstream from a netlist. Currently it is just an option in the script (a boolean flag), but I thought it would be worthwhile and convenient to have to script create the bitstream from the netlist automatically. Might be useful for future examples as well.
 * **Thursday**: 
-  * 
+  * Tried to run pytest for SpyDrNet SHREC. It is having trouble finding the 'spydrnet' package, and so the tests fail.
+  * Read TMR paper and learned about the four different voter types: reducing, partitioning, clock domain crossing, and synchronization. 
+  * Learned about illegal voter locations in an FPGA, how voters are inserted, and the some of the algorithms behind finding where to place voters. 
 * **Friday**:
+  * Met with Andrew to talk about new features for SpyDrNet SHREC.
+  * Continued reading TMR paper. 
 
 ### Week 4: 17 MAY 2021
 
