@@ -18,6 +18,32 @@ title: IMMERSE Log
 
 ## Log
 
+### Week 6: 31 MAY 2021
+
+#### Goals
+
+* Get SpyDrNet SHREC tests working, and add a couple tests.
+* SpyDrNet SHREC examples:
+  * Reduction vs. feedback voter example (example with replicated ports, and an example with the orignal ports)
+  * Inoutput port example
+  * Bigger design, perhaps my RISCV processor from 323.
+* Finish making tutorial page for SpyDrNet SHREC
+* Finish reading TMR paper.
+* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains. 
+* Clean up/add to Project X-Ray, bit2fasm, and FASM modules on the Computing Boot Camp website.
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+
 ### Week 5: 24 MAY 2021
 
 #### Goals
