@@ -18,19 +18,15 @@ title: IMMERSE Log
 
 ## Log
 
-### Week 6: 31 MAY 2021
+### Week 7: 4 JUNE 2021
 
 #### Goals
 
-* Get SpyDrNet SHREC tests working, and add a couple tests.
-* SpyDrNet SHREC examples:
-  * Reduction vs. feedback voter example (example with replicated ports, and an example with the orignal ports)
-  * Inoutput port example
-  * Bigger design, perhaps my RISCV processor from 323.
-* Finish making tutorial page for SpyDrNet SHREC
-* Finish reading TMR paper.
-* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains. 
-* Clean up/add to Project X-Ray, bit2fasm, and FASM modules on the Computing Boot Camp website.
+* Deepdive into SpyDrNet SHREC API so I can start implementing new algorithms and features
+* Work on SpyDrNet SHREC "Voters Before/After Every Flip-Flop" algorithm
+* Clean up/add to bit2fasm module on Computing Boot Camp page, and also make a pull request for the rest of the changes I've made. 
+* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains.
+* Work with Jacob on SpyDrNet SHREC tutorial page.
 
 #### Daily Updates
 
@@ -43,7 +39,39 @@ title: IMMERSE Log
 * **Thursday**: 
   * 
 * **Friday**:
+  *
 
+### Week 6: 31 MAY 2021
+
+#### Goals
+
+* Get SpyDrNet SHREC tests working, and add a couple tests.
+* SpyDrNet SHREC examples:
+  * Reduction vs. feedback voter example (example with replicated ports, and an example with the orignal ports)
+  * Inoutput port example
+  * Bigger design, perhaps my RISCV processor from 323.
+* Finish making tutorial page for SpyDrNet SHREC
+* Finish reading TMR paper.
+* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains.
+* Clean up/add to Project X-Ray, bit2fasm, and FASM modules on the Computing Boot Camp website.
+
+#### Daily Updates
+
+* **Monday**:
+  * Memorial Day
+* **Tuesday**: 
+  * Meeting about SpyDrNet-SHREC.
+  * Started going through SpyDrNet-SHREC API
+* **Wednesday**: 
+  * Worked on FASM page for the Computing Boot Camp and added more resources for it.
+  * Continued going through SpyDrNet-SHREC API
+* **Thursday**: 
+  * Updated Project X-Ray page on Computing Boot Camp
+  * Fixed Project X-Ray documentation for quickstart guide and submitted pull request.
+  * Refreshed my memory on the Bit-Inspector code base by going through it with different examples to get ready to meet with Cody and Jacob.
+  * Met with Cody and Jacob to talk about bit inspector and how it can be useful for them.
+* **Friday**:
+  * Studied all the algorithms from TMR paper.
 ### Week 5: 24 MAY 2021
 
 #### Goals
@@ -196,4 +224,5 @@ Log Template
 * **Thursday**: 
   * 
 * **Friday**:
+  *
  -->
