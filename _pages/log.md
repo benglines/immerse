@@ -18,15 +18,13 @@ title: IMMERSE Log
 
 ## Log
 
-### Week 7: 4 JUNE 2021
+### Week 8: 14 JUNE 2021
 
 #### Goals
 
-* Deepdive into SpyDrNet SHREC API so I can start implementing new algorithms and features
-* Work on SpyDrNet SHREC "Voters Before/After Every Flip-Flop" algorithm
-* Clean up/add to bit2fasm module on Computing Boot Camp page, and also make a pull request for the rest of the changes I've made. 
-* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains.
-* Work with Jacob on SpyDrNet SHREC tutorial page.
+* Basic SCC Decomposition Algorithm.
+* Highest Fanout SCC Decomposition Algorithm
+* Read paper about PIPs
 
 #### Daily Updates
 
@@ -38,6 +36,36 @@ title: IMMERSE Log
   * 
 * **Thursday**: 
   * 
+* **Friday**:
+  *
+
+### Week 7: 7 JUNE 2021
+
+#### Goals
+
+* Deepdive into SpyDrNet SHREC API so I can start implementing new algorithms and features
+* Work on SpyDrNet SHREC "Voters Before/After Every Flip-Flop" algorithm
+* Clean up/add to bit2fasm module on Computing Boot Camp page, and also make a pull request for the rest of the changes I've made. 
+* Read "Synchronization Techniques for Crossing Multiple Clock Domains in FPGA-Based TMR Circuits" to learn more about clock domains.
+* Work with Jacob on SpyDrNet SHREC tutorial page.
+* Basic SCC Decomposition Algorithm
+* Black box voters
+
+#### Daily Updates
+
+* **Monday**:
+  * Finished reading TMR paper.
+  * Started implementing voter after every flip-flop.
+* **Tuesday**: 
+  * Finished voter after every flip-flop algorithm. 
+  * Also finished voter before every flip-flop algorithm. This one took a bit of time, but I got it working as far as I can tell. I want to create some tests for both of these algorithms to ensure they are working properly. 
+* **Wednesday**: 
+  * Turns out the algorithm for placing a voter before every flip-flop wasn't working after some more testing. Worked on redo-ing it to make it work.
+  * Added documentation for both algorithms
+* **Thursday**: 
+  * Fixed placing voter after every flip-flop algorithm. As far as I can tell, it seems to be working well.
+  * Finalized documentation and style fixes for both algorithm
+  * Created example that demonstrates using both algorithms
 * **Friday**:
   *
 
