@@ -22,6 +22,7 @@ title: IMMERSE Log
 
 #### Goals
 
+* Add tests for new algorithms
 * Basic SCC Decomposition Algorithm.
 * Highest Fanout SCC Decomposition Algorithm
 * Read paper about PIPs
