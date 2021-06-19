@@ -18,14 +18,16 @@ title: IMMERSE Log
 
 ## Log
 
-### Week 8: 14 JUNE 2021
+### Week 9: 21 JUNE 2021
 
 #### Goals
 
-* Add tests for new algorithms
 * Basic SCC Decomposition Algorithm.
 * Highest Fanout SCC Decomposition Algorithm
-* Read paper about PIPs
+* Incorporate primitve names for flip-flops into SpyDrNet-SHREC algorithms
+* SymbiFlow links on Computing Boot Camp and on SymbiFlow documentation
+* Incorporate design rule checks within tests
+* Find better way to name algorithms and organize the code
 
 #### Daily Updates
 
@@ -39,6 +41,36 @@ title: IMMERSE Log
   * 
 * **Friday**:
   *
+
+### Week 8: 14 JUNE 2021
+
+#### Goals
+
+* Add tests for new algorithms
+* Basic SCC Decomposition Algorithm.
+* Highest Fanout SCC Decomposition Algorithm
+* Read paper about PIPs
+
+#### Daily Updates
+
+* **Monday**:
+  * Fixed some functions to make sure current SpyDrNet SHREC tests all work correctly.
+  * Read paper about PIPs. Talked to Cody about what he had done so far, and what steps he could take next
+  * Started learning more about pytest
+* **Tuesday**: 
+  * Created tests for all voter insertion algorithms. 
+* **Wednesday**: 
+  * Attended IMMERSE meetings.
+  * Started documenting everything on the existing find_voter_insertion_points algorithm 
+  * Finished making changes to Project X-Ray pages for Computing Boot Camp and created pull request for those changes.
+* **Thursday**: 
+  * Worked to understand the adjacency_list function
+  * Researched more about strongly connected component graphs, and learned more on how to use networkx.
+  * Tried to compare the algorithm used in SpyDrNet-SHREC to the algorithms presented by Jonathan Johsnon. I see lots of similarities, but I see extra steps in the SpyDrNet-SHREC version, like with determining feedback voters along with reduction voters.
+* **Friday**:
+  * Bit-inspector meeting
+  * Worked on dissecting find_insertion_voter_points more
+
 
 ### Week 7: 7 JUNE 2021
 
