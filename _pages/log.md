@@ -18,6 +18,28 @@ title: IMMERSE Log
 
 ## Log
 
+### Week 10: 28 JUNE 2021
+
+#### Goals
+
+* Fix reduction voters for current algorithm, and implement it for before/after FF algorithms
+* Incorporate primitve names for flip-flops into SpyDrNet-SHREC algorithms
+* Start Basic SCC Decomposition Algorithm
+* Create SpyDrNet module for Computing Boot Camp
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+  *
+
 ### Week 9: 21 JUNE 2021
 
 #### Goals
@@ -32,13 +54,14 @@ title: IMMERSE Log
 #### Daily Updates
 
 * **Monday**:
-  * 
+  * Worked on dissecting find_insertion_voter_points more
 * **Tuesday**: 
-  * 
+  * Started working on getting reduction voters to work for before/after every flip-flop algorithms
 * **Wednesday**: 
-  * 
+  * Attended IMMERSE meetings
+  * As I was working on getting reduction voters to work, I realized that the current algorithm may not even be working. I spent some time testing different designs and seeing what was working and what wasn't.
 * **Thursday**: 
-  * 
+  * Determined that the algorithm is not actually working as I thought it should. I worked with Jacob to create new design rule check to catch the error that was occurring by checking all wires and making sure that they are connected to something.
 * **Friday**:
   *
 
