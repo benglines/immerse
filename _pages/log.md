@@ -18,6 +18,70 @@ title: IMMERSE Log
 
 ## Log
 
+<!-- 
+Log Template
+
+### Week N: 2021
+
+#### Goals
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+  *
+ -->
+
+### Week 13: 19 JULY 2021
+
+#### Goals
+* Implement reduction voters for before/after FF algorithm
+* Modify scripts that access primitives to use the database instead of magic strings
+* Basic decomposition algorithm
+* Finish SpyDrNet bootcamp module
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+  *
+
+### Week 12: 13 JULY 2021
+
+#### Goals
+
+#### Daily Updates
+
+* **Monday**:
+  * To better understand voter insertion, I've created some graphics to demonstrate all the different cases I can think of. I also created a flowchart questionarrie for deciding when to place voters and where the output from the voters should come from. 
+* **Tuesday**: 
+  * Created SpyDrNet SHREC example that ignores placing voters after BUFGs to prevent hold time violations
+* **Wednesday**: 
+  * Compiled several diagrams together to map out the different voting schemes for better understanding. Possibly could use them in a "white paper" about voter insertion
+  * Worked on SpyDrNet Computing Boot Camp module
+* **Thursday**: 
+  * Created script to generate token constants for the primitive database in order to access the database without any "magic" strings.
+* **Friday**:
+  * Continued working on primitive database things
+
+### Week 11: 2021
+
+* Took the week off to get married!
+
 ### Week 10: 28 JUNE 2021
 
 #### Goals
@@ -30,13 +94,13 @@ title: IMMERSE Log
 #### Daily Updates
 
 * **Monday**:
-  * 
+  * Started revisitng find_voter_insertion_points and cleaned up the code 
 * **Tuesday**: 
   * 
 * **Wednesday**: 
   * 
 * **Thursday**: 
-  * 
+  * Created SpyDrNet page
 * **Friday**:
   *
 
@@ -62,6 +126,7 @@ title: IMMERSE Log
   * As I was working on getting reduction voters to work, I realized that the current algorithm may not even be working. I spent some time testing different designs and seeing what was working and what wasn't.
 * **Thursday**: 
   * Determined that the algorithm is not actually working as I thought it should. I worked with Jacob to create new design rule check to catch the error that was occurring by checking all wires and making sure that they are connected to something.
+  * SpyDrNet 1.8.2 release
 * **Friday**:
   *
 
@@ -287,26 +352,4 @@ title: IMMERSE Log
 * **Friday**: 
   * Spoke with Dallin and he answered all of my questions. I feel pretty confident with the basic workings of SpyDrNet, but I haven't dived deep into all of the different functions and examples.
   * Started reading through the SpyDrNet-SRHEC documentation. I am keeping my own list of notes to try and understand the documentation, as well as ideas for better documentation.
-  
 
-  
-<!-- 
-Log Template
-
-### Week N: 2021
-
-#### Goals
-
-#### Daily Updates
-
-* **Monday**:
-  * 
-* **Tuesday**: 
-  * 
-* **Wednesday**: 
-  * 
-* **Thursday**: 
-  * 
-* **Friday**:
-  *
- -->
