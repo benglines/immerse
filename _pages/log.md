@@ -39,26 +39,35 @@ Log Template
   *
  -->
 
+### Week 14: 26 JULY 2021
+
+* Out of town for the week
+
 ### Week 13: 19 JULY 2021
 
 #### Goals
 * Implement reduction voters for before/after FF algorithm
-* Modify scripts that access primitives to use the database instead of magic strings
+* Modify scripts that access primitives to use the database instead of magic strings. Rename scripts to show they are for Xilinx
 * Basic decomposition algorithm
 * Finish SpyDrNet bootcamp module
+* SpyDrNet and SpyDrNet SHREC releases
 
 #### Daily Updates
 
 * **Monday**:
-  * 
+  * Added reduction voters to the before/after ff algorithms
+  * There was a bug that resulted in voters driven by inputs (not possible) rather than the anticipated correct output. I worked with Jacob to fix this and tested it to make sure it is working. It seems to be working correctly with most designs so far
+  * There is another odd bug that happens when placing voters before every flip-flop with some designs, but it may be a bug with SpyDrNet. For some odd reason, some cables do not have an associated definition, which prevents some step in the organ_insertion process. I can replicate the bug with the "SID" example from SpyDrNet, but still not sure what it is, or whether the bug is coming from SpyDrNet or SpyDrNet SHREC.
 * **Tuesday**: 
-  * 
+  * Did SpyDrNet v1.8.3 release with Jacob
+  * Worked to get SpyDrNet-SHREC ready for release.
+  * Updated all the examples to use the primitive library
 * **Wednesday**: 
-  * 
+  * Did SpyDrNet-SHREC v1.1.0-alpha release with Jacob
 * **Thursday**: 
-  * 
+  * Working through voter insertion algorithm and commenting everything and documenting every line of code.
 * **Friday**:
-  *
+  * Documented more of the voter insertion algorithm and finished documenting the adjacency_list function for creating graphs from a netlist. 
 
 ### Week 12: 13 JULY 2021
 
