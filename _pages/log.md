@@ -39,6 +39,47 @@ Log Template
   *
  -->
 
+
+### Week 16: 9 AUGUST 2021
+
+#### Goals
+* Build open source SpyDrNet TMR repo
+* insert_organs fix/change
+
+#### Daily Updates
+
+* **Monday**:
+  * 
+* **Tuesday**: 
+  * 
+* **Wednesday**: 
+  * 
+* **Thursday**: 
+  * 
+* **Friday**:
+  *
+
+### Week 15: 2 AUGUST 2021
+
+#### Goals
+
+* Fully document voter insertion process
+* Start breaking the voter insertion algorithm up into more manageable pieces
+* Create "main" function for SpyDrNet-TMR
+
+#### Daily Updates
+
+* **Monday**:
+  * Documenting voter algorithms
+* **Tuesday**: 
+  * Started working on main function for SpyDrNet SHREC.
+* **Wednesday**: 
+  * Worked on main function.
+* **Thursday**: 
+  * Found bug with inserting voters before flip-flops, but it seems to be more of a bug with insert_organs, which Jacob and I will be working to change/fix
+* **Friday**:
+  * Finsished documenting main function "apply_tmr_to_netlist" and pushed it to next-release branch. 
+
 ### Week 14: 26 JULY 2021
 
 * Out of town for the week
