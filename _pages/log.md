@@ -43,8 +43,8 @@ Log Template
 ### Week 16: 9 AUGUST 2021
 
 #### Goals
-* Build open source SpyDrNet TMR repo
-* insert_organs fix/change
+* Build open source SpyDrNet-TMR repo
+* Change SpyDrNet-SHREC to some how depend on SpyDrNet-TMR
 
 #### Daily Updates
 
