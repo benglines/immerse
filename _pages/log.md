@@ -39,12 +39,12 @@ Log Template
   *
  -->
 
-
-### Week 16: 9 AUGUST 2021
+### Week 17: 16 AUGUST 2021
 
 #### Goals
-* Build open source SpyDrNet-TMR repo
-* Change SpyDrNet-SHREC to some how depend on SpyDrNet-TMR
+* Release SpyDrNet-TMR
+* Allow for command line input for SpyDrNet-TMR
+* Change SpyDrNet-SHREC to depend on SpyDrNet-TMR
 
 #### Daily Updates
 
@@ -58,6 +58,26 @@ Log Template
   * 
 * **Friday**:
   *
+
+### Week 16: 9 AUGUST 2021
+
+#### Goals
+* Build open source SpyDrNet-TMR repo
+  * Do not include SHREC specific files
+  * Update examples to use simpler algorithms, and to use apply_tmr_to_netlist function
+* Fix innerpin error with organ insertion
+
+#### Daily Updates
+
+* **Monday**:
+  * Started building up open source SpyDrNet-TMR repo
+* **Tuesday**: 
+  * Updated SpyDrNet-TMR examples
+  * Added support to apply_tmr_to_netlist function to specify valid voter locations
+* **Wednesday**: 
+  * Started working on find_reduction_voter_points
+* **Thursday**: 
+  * Finished find_reduction_voter_points
 
 ### Week 15: 2 AUGUST 2021
 
