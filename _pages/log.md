@@ -39,12 +39,12 @@ Log Template
   *
  -->
 
-### Week 17: 16 AUGUST 2021
+### Week 18: 23 AUGUST 2021
 
 #### Goals
-* Release SpyDrNet-TMR
-* Allow for command line input for SpyDrNet-TMR
-* Change SpyDrNet-SHREC to depend on SpyDrNet-TMR
+* Finish command line input for SpyDrNet TMR (SpyDrNet too?)
+* SpyDrNet SHREC folder that depends on SpyDrNet TMR
+
 
 #### Daily Updates
 
@@ -58,6 +58,27 @@ Log Template
   * 
 * **Friday**:
   *
+
+### Week 17: 16 AUGUST 2021
+
+#### Goals
+* Release SpyDrNet-TMR
+* Allow for command line input for SpyDrNet-TMR
+* Change SpyDrNet-SHREC to depend on SpyDrNet-TMR
+
+#### Daily Updates
+
+* **Monday**:
+  * SpyDrNet Meeting
+* **Tuesday**: 
+  * Worked to get scripts to pass pylint checks
+* **Wednesday**: 
+  * Worked on SpyDrNet TMR documentation
+  * Released SpyDrNet TMR
+* **Thursday**: 
+  * Started working on command line operation for SpyDrNet TMR
+* **Friday**:
+  * Continued working on command line operation for SpyDrNet TMR
 
 ### Week 16: 9 AUGUST 2021
 
