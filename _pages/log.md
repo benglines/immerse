@@ -47,17 +47,7 @@ Log Template
 
 
 #### Daily Updates
-
-* **Monday**:
-  * 
-* **Tuesday**: 
-  * 
-* **Wednesday**: 
-  * 
-* **Thursday**: 
-  * 
-* **Friday**:
-  *
+* Started designing a system for YAML config files to run TMR on a netlist.
 
 ### Week 17: 16 AUGUST 2021
 
