@@ -16,6 +16,10 @@ title: IMMERSE Log
 * **Friday**: 
   * 8:00am-12:00pm
 
+## Goals for Fall 2021
+* Implement config file for SpyDrNet-TMR to greatly improve usability
+* 
+
 ## Log
 
 <!-- 
@@ -38,6 +42,18 @@ Log Template
 * **Friday**:
   *
  -->
+
+### 13 SEPTEMBER 2021
+#### Goals
+* Continue working on YAML configuration file for SpyDrNet-TMR
+
+#### Daily Updates
+* **Wednesday**: 
+  * 
+
+### 6 SEPTEMBER 2021
+#### Goals
+* Work on YAML configuration file for SpyDrNet-TMR
 
 ### Week 18: 23 AUGUST 2021
 
